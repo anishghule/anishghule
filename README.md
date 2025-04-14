@@ -92,6 +92,7 @@ I strive to contribute for impact, and bring my best skills to the table.
         <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="assets/vscode/vscode-original.svg" alt="VSCode" height="35" /></a>
         <a href="https://eclipseide.org/" target="_blank"><img style="margin: 10px" src="assets/eclipse/eclipse-original.svg" alt="Eclipse" height="35" /></a>
         <a href="https://github.com/features/copilot" target="_blank"><img style="margin: 10px" src="assets/github/github-copilot-original.svg" alt="Copilot" height="40" /></a>
+        <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="assets/postman/postman-original.svg" alt="Postman" height="35" /></a>
         <a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" src="assets/notion/notion-original.svg" alt="Notion" height="35" /></a>
         <a href="https://sentry.io/welcome/" target="_blank"><img style="margin: 10px" src="assets/sentry/sentry-original.svg" alt="Sentry" height="35" /></a>
       </div>
