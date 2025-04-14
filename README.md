@@ -100,7 +100,10 @@ I strive to contribute for impact, and bring my best skills to the table.
 <br />  
 
 ### Github Stats
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anishghule&theme=github)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anishghule&theme=github" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anishghule&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=3&margin-w=15" alt="Anish's GitHub Trophies" />
+</div>
 
 ### Connect with me  
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
