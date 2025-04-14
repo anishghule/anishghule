@@ -1,6 +1,6 @@
 ![Anish Ghule - Software AI Developer](assets/banner.png)
 
-### <div style="display: flex; justify-content: center; align-items: center; text-align: center; flex-direction: column;">👋 Hi! I'm Anish Ghule — a Software & AI Developer with a passion for building intelligent systems.<br /> Computer Science Graduate from BITS Pilani (Y'24) 🚀</div>  
+### <div style="display: flex; justify-content: center; align-items: center; text-align: center; flex-direction: column;" align="center">👋 Hi! I'm Anish Ghule — a Software & AI Developer with a passion for building intelligent systems.<br /> Computer Science Graduate from BITS Pilani (Y'24) 🚀</div>  
 
 - 🔭 I'm currently working on **Backend Dev** & **Applied GenAI** (LLMs, RAG, MAS)
 - 🌱 I'm intermediately experienced in Cloud Infra, Kubernetes, DevOps
@@ -12,6 +12,8 @@ I love to take crazy leans and wear multiple hats when in my learning phase.
 I am adaptable, flexible, take responsibility and lead, collaborate and network, and above all I'm resilient too! 
 I strive to contribute for impact, and bring my best skills to the table.
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4500&pause=500&width=435&separator=%3C&lines=cd+~%2Flife+%26%26+code%3Cwhile(alive)+%7B+learn();+build();+%7D%3CI+think%2C+therefore+I+.infer()%3Cif+hallucination%3A+blame_llm()%3Cgit+commit+-m+%22Always+learning!%22%3Crm+-rf+%2Flimits" alt="Typing SVG" /></a>
+
 <blockquote>
   <p style="font-family: 'Comic Sans MS', cursive; font-size: 1.1em;">
     Low Aim is a Crime!<br /> 
@@ -20,7 +22,7 @@ I strive to contribute for impact, and bring my best skills to the table.
   <cite style="font-size: 0.8em; display: block;">~ <em>Song of Youth, Dr. APJ Kalam</em></cite>
 </blockquote>
 
-### Languages and Tools
+### <img src="assets/external/coding.webp" width="18" height="12"> Languages and Tools
 <table>
   <tr>
     <td style="vertical-align: top; width: 40%;">
@@ -90,6 +92,7 @@ I strive to contribute for impact, and bring my best skills to the table.
         <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="assets/vscode/vscode-original.svg" alt="VSCode" height="35" /></a>
         <a href="https://eclipseide.org/" target="_blank"><img style="margin: 10px" src="assets/eclipse/eclipse-original.svg" alt="Eclipse" height="35" /></a>
         <a href="https://github.com/features/copilot" target="_blank"><img style="margin: 10px" src="assets/github/github-copilot-original.svg" alt="Copilot" height="40" /></a>
+        <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="assets/postman/postman-original.svg" alt="Postman" height="35" /></a>
         <a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" src="assets/notion/notion-original.svg" alt="Notion" height="35" /></a>
         <a href="https://sentry.io/welcome/" target="_blank"><img style="margin: 10px" src="assets/sentry/sentry-original.svg" alt="Sentry" height="35" /></a>
       </div>
@@ -100,13 +103,13 @@ I strive to contribute for impact, and bring my best skills to the table.
 <br />  
 
 ### Github Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;" align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anishghule&theme=github" alt="GitHub Profile Summary" />
   <img src="https://github-profile-trophy.vercel.app/?username=anishghule&rank=SECRET,SSS,SS,S,AAA,AA,A&row=1&column=3&margin-w=15" alt="Anish's GitHub Trophies" />
 </div>
 
 ### Connect with me  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;" align="center">
   <a href="https://github.com/anishghule" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -130,7 +133,7 @@ I strive to contribute for impact, and bring my best skills to the table.
 
 <br />
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;" align="center">
   <a href="https://buymeacoffee.com/anishghule" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" alt="Buy Me A Coffee" />
   </a>
