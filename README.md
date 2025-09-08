@@ -114,7 +114,10 @@ I strive to contribute for impact, and bring my best skills to the table.
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/anishghule" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ghuleanish12[at]gmail[dot]com">
+    <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.facebook.com/ghule.anish/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
