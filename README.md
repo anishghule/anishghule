@@ -23,78 +23,78 @@ I strive to contribute for impact, and bring my best skills to the table.
 </blockquote>
 
 ### <img src="assets/external/coding.webp" width="18" height="12"> Languages and Tools
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="vertical-align: top; width: 40%;">
+    <td style="vertical-align: top; width: 40%; padding: 15px;">
       <h4>AI/ML</h4>  
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-        <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="assets/python/python-original.svg" alt="Python" height="40" /></a>
-        <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="assets/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="40" /></a>
-        <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="assets/pytorch/pytorch-original.svg" alt="PyTorch" height="40" /></a>
-        <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="assets/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="40" /></a>
-        <a href="https://colab.research.google.com/" target="_blank"><img style="margin: 10px" src="assets/colab/colab-original.svg" alt="Google Colab" height="40" /></a>
-        <a href="https://www.anaconda.com/" target="_blank"><img style="margin: 10px" src="assets/anaconda/anaconda-original.svg" alt="Anaconda" height="35" /></a>
-        <a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="assets/numpy/numpy-original.svg" alt="Numpy" height="35" /></a>
-        <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="assets/pandas/pandas-original.svg" alt="Pandas" height="40" /></a>
-        <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 10px" src="assets/scikit-learn/scikit-learn-original-wordmark.svg" alt="Scikit-Learn" height="30" /></a>
-        <a href="https://www.together.ai/" target="_blank"><img style="margin: 10px" src="assets/together/together-ai-original.svg" alt="TogetherAI" height="35" /></a>
-        <a href="https://www.openai.com/" target="_blank"><img style="margin: 10px" src="assets/openai/openai-original.svg" alt="OpenAI" height="40" /></a>
-        <a href="https://www.anthropic.com/index/claude-ai" target="_blank"><img style="margin: 10px" src="assets/claude/claude-original.svg" alt="Claude" height="35" /></a>
-        <a href="https://www.anthropic.com/" target="_blank"><img style="margin: 10px" src="assets/anthropic/anthropic-original.svg" alt="Anthropic" height="35" /></a>
-        <a href="https://www.gemini.com/" target="_blank"><img style="margin: 10px" src="assets/gemini/gemini-original.svg" alt="Gemini" height="35" /></a>
-        <a href="https://www.deepseek.ai/" target="_blank"><img style="margin: 10px" src="assets/deepseek/deepseek-original.svg" alt="Deepseek" height="35" /></a>
-        <a href="https://ollama.com/" target="_blank"><img style="margin: 10px" src="assets/ollama/ollama-original.svg" alt="Ollama" height="35" /></a>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 5px;">
+        <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img style="margin: 5px" src="assets/python/python-original.svg" alt="Python" height="35" /></a>
+        <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"><img style="margin: 5px" src="assets/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="35" /></a>
+        <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"><img style="margin: 5px" src="assets/pytorch/pytorch-original.svg" alt="PyTorch" height="35" /></a>
+        <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 5px" src="assets/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="35" /></a>
+        <a href="https://colab.research.google.com/" target="_blank"><img style="margin: 5px" src="assets/colab/colab-original.svg" alt="Google Colab" height="35" /></a>
+        <a href="https://www.anaconda.com/" target="_blank"><img style="margin: 5px" src="assets/anaconda/anaconda-original.svg" alt="Anaconda" height="32" /></a>
+        <a href="https://numpy.org/" target="_blank"><img style="margin: 5px" src="assets/numpy/numpy-original.svg" alt="Numpy" height="32" /></a>
+        <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 5px" src="assets/pandas/pandas-original.svg" alt="Pandas" height="35" /></a>
+        <a href="https://scikit-learn.org/stable/" target="_blank"><img style="margin: 5px" src="assets/scikit-learn/scikit-learn-original-wordmark.svg" alt="Scikit-Learn" height="28" /></a>
+        <a href="https://www.together.ai/" target="_blank"><img style="margin: 5px" src="assets/together/together-ai-original.svg" alt="TogetherAI" height="32" /></a>
+        <a href="https://www.openai.com/" target="_blank"><img style="margin: 5px" src="assets/openai/openai-original.svg" alt="OpenAI" height="35" /></a>
+        <a href="https://www.anthropic.com/index/claude-ai" target="_blank"><img style="margin: 5px" src="assets/claude/claude-original.svg" alt="Claude" height="32" /></a>
+        <a href="https://www.anthropic.com/" target="_blank"><img style="margin: 5px" src="assets/anthropic/anthropic-original.svg" alt="Anthropic" height="32" /></a>
+        <a href="https://www.gemini.com/" target="_blank"><img style="margin: 5px" src="assets/gemini/gemini-original.svg" alt="Gemini" height="32" /></a>
+        <a href="https://www.deepseek.ai/" target="_blank"><img style="margin: 5px" src="assets/deepseek/deepseek-original.svg" alt="Deepseek" height="32" /></a>
+        <a href="https://ollama.com/" target="_blank"><img style="margin: 5px" src="assets/ollama/ollama-original.svg" alt="Ollama" height="32" /></a>
       </div>
     </td>
-    <td style="vertical-align: top; width: 40%;">
+    <td style="vertical-align: top; width: 40%; padding: 15px;">
       <h4>Backend/Frontend</h4>
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-        <a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="assets/java/java-original.svg" alt="Java" height="40" /></a>
-        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="assets/fastapi/fastapi-original.svg" alt="FastAPI" height="35" /></a>
-        <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="assets/firebase/firebase-original.svg" alt="Firebase" height="35" /></a>
-        <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="assets/elasticsearch/elasticsearch-original.svg" alt="Elastic Search" height="35" /></a>
-        <a href="https://www.elastic.co/kibana" target="_blank"><img style="margin: 10px" src="assets/kibana/kibana-original.svg" alt="Kibana" height="35" /></a>
-        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="assets/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" /></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="assets/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" /></a>
-        <a href="https://dbeaver.io/" target="_blank"><img style="margin: 10px" src="assets/dbeaver/dbeaver-original.svg" alt="DBeaver" height="40" /></a>
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img style="margin: 10px" src="assets/c/c-original.svg" alt="C" height="40" /></a>
-        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="assets/cplusplus/cplusplus-original.svg" alt="C++" height="40" /></a>  
-        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="assets/css3/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>  
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="assets/html5/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="assets/javascript/javascript-original.svg" alt="JavaScript" height="35" /></a>  
-        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="assets/mongodb/mongodb-original.svg" alt="MongoDB" height="40" /></a>  
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="assets/react/react-original-wordmark.svg" alt="React" height="40" /></a>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 5px;">
+        <a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer"><img style="margin: 5px" src="assets/java/java-original.svg" alt="Java" height="35" /></a>
+        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"><img style="margin: 5px" src="assets/fastapi/fastapi-original.svg" alt="FastAPI" height="32" /></a>
+        <a href="https://firebase.google.com/" target="_blank"><img style="margin: 5px" src="assets/firebase/firebase-original.svg" alt="Firebase" height="32" /></a>
+        <a href="https://www.elastic.co/" target="_blank"><img style="margin: 5px" src="assets/elasticsearch/elasticsearch-original.svg" alt="Elastic Search" height="32" /></a>
+        <a href="https://www.elastic.co/kibana" target="_blank"><img style="margin: 5px" src="assets/kibana/kibana-original.svg" alt="Kibana" height="32" /></a>
+        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 5px" src="assets/mysql/mysql-original-wordmark.svg" alt="MySQL" height="35" /></a>
+        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 5px" src="assets/postgresql/postgresql-original.svg" alt="PostgreSQL" height="35" /></a>
+        <a href="https://dbeaver.io/" target="_blank"><img style="margin: 5px" src="assets/dbeaver/dbeaver-original.svg" alt="DBeaver" height="35" /></a>
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img style="margin: 5px" src="assets/c/c-original.svg" alt="C" height="35" /></a>
+        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 5px" src="assets/cplusplus/cplusplus-original.svg" alt="C++" height="35" /></a>  
+        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 5px" src="assets/css3/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>  
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 5px" src="assets/html5/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 5px" src="assets/javascript/javascript-original.svg" alt="JavaScript" height="32" /></a>  
+        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 5px" src="assets/mongodb/mongodb-original.svg" alt="MongoDB" height="35" /></a>  
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 5px" src="assets/react/react-original-wordmark.svg" alt="React" height="35" /></a>
       </div>
     </td>
-    <td style="vertical-align: top; width: 20%;">
+    <td style="vertical-align: top; width: 20%; padding: 15px;">
       <h4>DevOps</h4>
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-        <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="assets/googlecloud/googlecloud-original.svg" alt="GCP" height="40" /></a>
-        <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="assets/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="40" /></a>
-        <a href="https://helm.sh/" target="_blank"><img style="margin: 10px" src="assets/helm/helm-original.svg" alt="Helm" height="40" /></a>
-        <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="assets/docker/docker-original.svg" alt="Docker" height="40" /></a>
-        <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="assets/jenkins/jenkins-original.svg" alt="Jenkins" height="35" /></a>
-        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="assets/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" /></a>  
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 5px;">
+        <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer"><img style="margin: 5px" src="assets/googlecloud/googlecloud-original.svg" alt="GCP" height="35" /></a>
+        <a href="https://kubernetes.io/" target="_blank"><img style="margin: 5px" src="assets/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="35" /></a>
+        <a href="https://helm.sh/" target="_blank"><img style="margin: 5px" src="assets/helm/helm-original.svg" alt="Helm" height="35" /></a>
+        <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img style="margin: 5px" src="assets/docker/docker-original.svg" alt="Docker" height="35" /></a>
+        <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 5px" src="assets/jenkins/jenkins-original.svg" alt="Jenkins" height="32" /></a>
+        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 5px" src="assets/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="35" /></a>  
       </div>
     </td>
   </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="3" style="padding: 15px;">
       <h4>Misc Technologies</h4>
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-        <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="assets/linux/linux-original.svg" alt="Linux" height="35" /></a>
-        <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"><img style="margin: 10px" src="assets/latex/latex-original.svg" alt="LaTeX" height="40" /></a>
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="assets/git/git-original.svg" alt="Git" height="35" /></a>  
-        <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="assets/bash/bash-original.svg" alt="Bash" height="40" /></a>
-        <a href="https://www.cursor.so/" target="_blank"><img style="margin: 10px" src="assets/cursor/cursor-original.svg" alt="Cursor" height="35" /></a>
-        <a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="assets/jetbrains/jetbrains-original.svg" alt="IntelliJ IDEA" height="35" /></a>
-        <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 10px" src="assets/pycharm/pycharm-original.svg" alt="PyCharm" height="35" /></a>
-        <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="assets/vscode/vscode-original.svg" alt="VSCode" height="35" /></a>
-        <a href="https://eclipseide.org/" target="_blank"><img style="margin: 10px" src="assets/eclipse/eclipse-original.svg" alt="Eclipse" height="35" /></a>
-        <a href="https://github.com/features/copilot" target="_blank"><img style="margin: 10px" src="assets/github/github-copilot-original.svg" alt="Copilot" height="40" /></a>
-        <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="assets/postman/postman-original.svg" alt="Postman" height="35" /></a>
-        <a href="https://www.notion.so/" target="_blank"><img style="margin: 10px" src="assets/notion/notion-original.svg" alt="Notion" height="35" /></a>
-        <a href="https://sentry.io/welcome/" target="_blank"><img style="margin: 10px" src="assets/sentry/sentry-original.svg" alt="Sentry" height="35" /></a>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 5px;">
+        <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img style="margin: 5px" src="assets/linux/linux-original.svg" alt="Linux" height="32" /></a>
+        <a href="https://www.latex-project.org/" target="_blank" rel="noopener noreferrer"><img style="margin: 5px" src="assets/latex/latex-original.svg" alt="LaTeX" height="35" /></a>
+        <a href="https://github.com/" target="_blank"><img style="margin: 5px" src="assets/git/git-original.svg" alt="Git" height="32" /></a>  
+        <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 5px" src="assets/bash/bash-original.svg" alt="Bash" height="35" /></a>
+        <a href="https://www.cursor.so/" target="_blank"><img style="margin: 5px" src="assets/cursor/cursor-original.svg" alt="Cursor" height="32" /></a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 5px" src="assets/jetbrains/jetbrains-original.svg" alt="IntelliJ IDEA" height="32" /></a>
+        <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img style="margin: 5px" src="assets/pycharm/pycharm-original.svg" alt="PyCharm" height="32" /></a>
+        <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 5px" src="assets/vscode/vscode-original.svg" alt="VSCode" height="32" /></a>
+        <a href="https://eclipseide.org/" target="_blank"><img style="margin: 5px" src="assets/eclipse/eclipse-original.svg" alt="Eclipse" height="32" /></a>
+        <a href="https://github.com/features/copilot" target="_blank"><img style="margin: 5px" src="assets/github/github-copilot-original.svg" alt="Copilot" height="35" /></a>
+        <a href="https://www.postman.com/" target="_blank"><img style="margin: 5px" src="assets/postman/postman-original.svg" alt="Postman" height="32" /></a>
+        <a href="https://www.notion.so/" target="_blank"><img style="margin: 5px" src="assets/notion/notion-original.svg" alt="Notion" height="32" /></a>
+        <a href="https://sentry.io/welcome/" target="_blank"><img style="margin: 5px" src="assets/sentry/sentry-original.svg" alt="Sentry" height="32" /></a>
       </div>
     </td>
   </tr>
