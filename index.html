@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portfolio of Anish Ghule — Software AI Engineer">
+  <meta name="theme-color" content="#24211E">
+
+  <meta property="og:title" content="Anish Ghule | Software AI Engineer">
+  <meta property="og:description" content="Software AI Engineer — Backend Dev & Applied GenAI">
+  <meta property="og:image" content="assets/banner.png">
+  <meta property="og:type" content="website">
+
+  <title>Anish Ghule | Software AI Engineer</title>
+
+  <link rel="icon" href="assets/AG.png" type="image/png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+  <!-- NAVBAR -->
+  <header class="navbar" id="navbar" role="banner">
+    <nav class="navbar__inner container" role="navigation" aria-label="Main navigation">
+      <a href="#" class="navbar__logo" aria-label="Home"><img src="assets/AG.png" alt="AG"></a>
+      <ul class="navbar__links" id="nav-links" role="menubar">
+        <!-- Populated by JS from nav array -->
+      </ul>
+      <div class="navbar__right">
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark/light theme">
+          <!-- SVG injected by theme.js -->
+        </button>
+        <button class="navbar__toggle" id="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+          <span class="navbar__toggle-bar"></span>
+          <span class="navbar__toggle-bar"></span>
+          <span class="navbar__toggle-bar"></span>
+        </button>
+      </div>
+    </nav>
+    <div class="navbar__mobile-menu" id="mobile-menu">
+      <!-- Populated by JS -->
+    </div>
+  </header>
+
+  <main id="main-content">
+    <!-- HERO / ABOUT -->
+    <section id="about" class="section section--hero" aria-labelledby="about-heading">
+      <div class="container">
+        <div class="hero__content" id="hero-content">
+          <!-- Populated: name, title, bio, typing, social links -->
+        </div>
+      </div>
+    </section>
+
+    <!-- TECH STACK -->
+    <section id="techstack" class="section section--alt" aria-labelledby="techstack-heading">
+      <div class="container">
+        <h2 class="section__title" id="techstack-heading">Tech Stack</h2>
+        <div id="techstack-content">
+          <!-- Populated: category groups with icon grids -->
+        </div>
+      </div>
+    </section>
+
+    <!-- EXPERIENCE -->
+    <section id="experience" class="section" aria-labelledby="experience-heading">
+      <div class="container">
+        <h2 class="section__title" id="experience-heading">Experience</h2>
+        <div class="timeline" id="experience-content">
+          <!-- Populated: timeline items -->
+        </div>
+      </div>
+    </section>
+
+    <!-- EDUCATION -->
+    <section id="education" class="section section--alt" aria-labelledby="education-heading">
+      <div class="container">
+        <h2 class="section__title" id="education-heading">Education</h2>
+        <div id="education-content"></div>
+      </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section id="projects" class="section" aria-labelledby="projects-heading">
+      <div class="container">
+        <h2 class="section__title" id="projects-heading">Projects</h2>
+        <div class="card-grid" id="projects-content"></div>
+      </div>
+    </section>
+
+    <!-- RESEARCH -->
+    <section id="research" class="section section--alt" aria-labelledby="research-heading">
+      <div class="container">
+        <h2 class="section__title" id="research-heading">Research</h2>
+        <div class="card-grid" id="research-content"></div>
+      </div>
+    </section>
+
+    <!-- ACHIEVEMENTS -->
+    <section id="achievements" class="section" aria-labelledby="achievements-heading">
+      <div class="container">
+        <h2 class="section__title" id="achievements-heading">Achievements & Leadership</h2>
+        <div id="achievements-content"></div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="section section--alt" aria-labelledby="contact-heading">
+      <div class="container">
+        <h2 class="section__title" id="contact-heading">Get In Touch</h2>
+        <div id="contact-content"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="footer" role="contentinfo">
+    <div class="container">
+      <p>&copy; <span id="year"></span> Anish Ghule</p>
+    </div>
+  </footer>
+
+  <!-- Loading overlay -->
+  <div class="loading-overlay" id="loading-overlay" aria-live="polite">
+    <div class="loading-spinner"></div>
+    <p>Loading...</p>
+  </div>
+
+  <noscript>
+    <style>.loading-overlay{display:none}</style>
+    <div style="padding:4rem 2rem;text-align:center;font-family:sans-serif">
+      <h1>JavaScript Required</h1>
+      <p>This portfolio requires JavaScript to load content. Please enable JavaScript and refresh.</p>
+    </div>
+  </noscript>
+
+  <!-- js-yaml CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+
+  <!-- App entry point -->
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,345 @@
+# =============================================================
+# PORTFOLIO CONTENT — Single source of truth
+# Edit this file to update the website. No code changes needed.
+# =============================================================
+
+meta:
+  title: "Anish Ghule | Software AI Engineer"
+  description: "Portfolio of Anish Ghule — Software AI Engineer specializing in Applied GenAI, Backend Systems, and Cloud Infrastructure"
+
+profile:
+  name: "Anish Ghule"
+  greeting: "Hi, I'm"
+  title: "Software AI Engineer"
+  company: "RISA"
+  location: "Palo Alto, CA"
+  photo: "assets/anish-dp-transparent.png"
+  bio: "Building intelligent systems at the intersection of AI and Software Engineering. CS graduate from BITS Pilani with experience in Applied GenAI, backend systems, and cloud infrastructure."
+  typing_phrases:
+    - "cd ~/life && code"
+    - "while(alive) { learn(); build(); }"
+    - "I think, therefore I .infer()"
+    - "git commit -m 'Always learning!'"
+    - "rm -rf /limits"
+
+social:
+  - platform: "github"
+    url: "https://github.com/anishghule"
+  - platform: "linkedin"
+    url: "https://linkedin.com/in/anishghule"
+  - platform: "email"
+    url: "mailto:ghuleanish12@gmail.com"
+  - platform: "x"
+    url: "https://x.com/Anish_Ghule"
+  - platform: "instagram"
+    url: "https://www.instagram.com/ghule.anish/"
+
+nav:
+  - id: "about"
+    label: "About"
+  - id: "techstack"
+    label: "Tech Stack"
+  - id: "experience"
+    label: "Experience"
+  - id: "education"
+    label: "Education"
+  - id: "projects"
+    label: "Projects"
+  - id: "research"
+    label: "Research"
+  - id: "achievements"
+    label: "Achievements"
+  - id: "contact"
+    label: "Contact"
+
+techstack:
+  - category: "AI / ML"
+    items:
+      - name: "Python"
+        icon: "python/python-original.svg"
+      - name: "PyTorch"
+        icon: "pytorch/pytorch-original.svg"
+      - name: "TensorFlow"
+        icon: "tensorflow/tensorflow-original.svg"
+      - name: "Scikit-Learn"
+        icon: "scikitlearn/scikitlearn-original.svg"
+      - name: "NumPy"
+        icon: "numpy/numpy-original.svg"
+      - name: "Pandas"
+        icon: "pandas/pandas-original.svg"
+      - name: "OpenCV"
+        icon: "opencv/opencv-original.svg"
+      - name: "Matplotlib"
+        icon: "matplotlib/matplotlib-original.svg"
+      - name: "Jupyter"
+        icon: "jupyter/jupyter-original.svg"
+      - name: "OpenAI"
+        icon: "openai/openai-original.svg"
+        invert_in_dark: true
+      - name: "Claude"
+        icon: "claude/claude-original.svg"
+      - name: "Anthropic"
+        icon: "anthropic/anthropic-original.svg"
+      - name: "Gemini"
+        icon: "gemini/gemini-original.svg"
+      - name: "DeepSeek"
+        icon: "deepseek/deepseek-original.svg"
+      - name: "Ollama"
+        icon: "ollama/ollama-original.svg"
+      - name: "Colab"
+        icon: "colab/colab-original.svg"
+
+  - category: "Backend / Frontend"
+    items:
+      - name: "Java"
+        icon: "java/java-original.svg"
+      - name: "FastAPI"
+        icon: "fastapi/fastapi-original.svg"
+      - name: "C"
+        icon: "c/c-original.svg"
+      - name: "C++"
+        icon: "cplusplus/cplusplus-original.svg"
+      - name: "JavaScript"
+        icon: "javascript/javascript-original.svg"
+      - name: "React"
+        icon: "react/react-original.svg"
+      - name: "HTML5"
+        icon: "html5/html5-original.svg"
+      - name: "CSS3"
+        icon: "css3/css3-original.svg"
+      - name: "GraphQL"
+        icon: "graphql/graphql-plain.svg"
+
+  - category: "Databases"
+    items:
+      - name: "PostgreSQL"
+        icon: "postgresql/postgresql-original.svg"
+      - name: "MySQL"
+        icon: "mysql/mysql-original.svg"
+      - name: "MongoDB"
+        icon: "mongodb/mongodb-original.svg"
+      - name: "Elasticsearch"
+        icon: "elasticsearch/elasticsearch-original.svg"
+      - name: "Firebase"
+        icon: "firebase/firebase-original.svg"
+      - name: "DynamoDB"
+        icon: "dynamodb/dynamodb-original.svg"
+
+  - category: "Cloud / DevOps"
+    items:
+      - name: "GCP"
+        icon: "googlecloud/googlecloud-original.svg"
+      - name: "AWS"
+        icon: "amazonwebservices/amazonwebservices-original-wordmark.svg"
+      - name: "Azure"
+        icon: "azure/azure-original.svg"
+      - name: "Docker"
+        icon: "docker/docker-original.svg"
+      - name: "Kubernetes"
+        icon: "kubernetes/kubernetes-original.svg"
+      - name: "Helm"
+        icon: "helm/helm-original.svg"
+      - name: "Jenkins"
+        icon: "jenkins/jenkins-original.svg"
+      - name: "Grafana"
+        icon: "grafana/grafana-original.svg"
+      - name: "Prometheus"
+        icon: "prometheus/prometheus-original.svg"
+
+  - category: "Tools & Misc"
+    items:
+      - name: "Git"
+        icon: "git/git-original.svg"
+      - name: "Linux"
+        icon: "linux/linux-original.svg"
+      - name: "Bash"
+        icon: "bash/bash-original.svg"
+        invert_in_dark: true
+      - name: "GitHub"
+        icon: "github/github-original.svg"
+        invert_in_dark: true
+      - name: "Postman"
+        icon: "postman/postman-original.svg"
+      - name: "LaTeX"
+        icon: "latex/latex-original.svg"
+        invert_in_dark: true
+      - name: "VS Code"
+        icon: "vscode/vscode-original.svg"
+      - name: "Cursor"
+        icon: "cursor/cursor-original.svg"
+      - name: "Copilot"
+        icon: "github/github-copilot-original.svg"
+      - name: "Sentry"
+        icon: "sentry/sentry-original.svg"
+
+experience:
+  - role: "Software AI Engineer"
+    company: "RISA"
+    location: "Palo Alto, CA"
+    period: "Jul 2024 — Present"
+    type: "full-time"
+    description: "Architecting AI systems for healthcare automation - from LLM orchestration to FHIR-compliant data pipelines."
+    highlights:
+      - "Built AI Agent Factory using Abstract Factory and Adapter patterns for vendor-agnostic LLM orchestration (GPT-4, Claude, Gemini)"
+      - "Pioneered Model Context Protocol (MCP) and Agent-to-Agent (A2A) protocols for dynamic tool discovery"
+      - "Built PDF Parser Agent and NAR Grid automation achieving >80% zero-touch prior authorization processing"
+      - "Established HPAs for 9 microservices; resolved Kubernetes zombie process issues"
+      - "Designed FHIR R4 Transformers with Hexagonal/Adapter patterns and Pydantic validation"
+      - "Reduced order ingestion from 75 to 7 minutes (10x improvement); saved 500-1000+ hours/year"
+    tags: ["Python", "LangChain", "OpenAI", "Claude", "Kubernetes", "GCP", "FastAPI"]
+
+  - role: "Software Engineering Intern"
+    company: "Sprinklr"
+    location: "Gurugram, India"
+    period: "Jan 2024 — Jun 2024"
+    type: "internship"
+    description: "Infrastructure resiliency and observability for enterprise-scale Kubernetes deployments."
+    highlights:
+      - "Implemented resiliency checks for CPU underutilization/overusage in Kubernetes; identified issues in 60%+ deployments"
+      - "Developed proactive jobs for Elasticsearch shard mapping and fixed replica configuration bugs"
+      - "Analyzed and fixed 15+ infrastructure issues using jstack, heap dumps, Grafana, Kibana"
+    tags: ["Java", "SpringBoot", "Kubernetes", "Elasticsearch", "Grafana"]
+
+  - role: "Research Intern"
+    company: "Indian Institute of Science (IISc)"
+    location: "Bangalore, India"
+    period: "Mar 2022 — Dec 2023"
+    type: "research"
+    description: "Micro-expression emotion recognition research under Dr. Punit Rathore."
+    highlights:
+      - "Designed architecture using Vision Transformers and Masked Auto Encoders on custom multi-angle facial dataset"
+      - "Achieved +11% accuracy improvement on SAMM and CASME2 datasets, outperforming state-of-the-art"
+    tags: ["PyTorch", "Vision Transformers", "CNN", "MAE"]
+
+  - role: "SDE Intern"
+    company: "Sprinklr"
+    location: "Gurugram, India"
+    period: "May 2023 — Jul 2023"
+    type: "internship"
+    description: "Backend development and cloud cost optimization for enterprise platform."
+    highlights:
+      - "Deployed restricted APIs via SpringBoot; reduced Elasticsearch storage costs ~30%"
+      - "Developed Azure Cost Analyzer with 12 drill-down views"
+      - "Created Kibana dashboards for forecasted time-series cost visualization"
+    tags: ["Java", "SpringBoot", "Elasticsearch", "Azure", "Kibana"]
+
+  - role: "R&D Intern"
+    company: "Soroco"
+    location: "Bangalore, India"
+    period: "Aug 2022 — Apr 2023"
+    type: "internship"
+    description: "Process mining and intelligent automation using NLP and LLMs."
+    highlights:
+      - "Devised rule-engine to summarize action events (4-10 actions to single line, <25% data size)"
+      - "Generated natural language descriptions using heuristics and GPT-3"
+      - "Anonymized sensitive information via domain-based word mapping"
+    tags: ["Python", "GPT-3", "Pandas", "PostgreSQL"]
+
+  - role: "Research Intern"
+    company: "CSIR-CEERI"
+    location: "Chennai, India"
+    period: "May 2022 — Jul 2022"
+    type: "research"
+    description: "Remote photoplethysmography (rPPG) research under Dr. Madan Lakshmanan."
+    highlights:
+      - "Implemented Eulerian Video Magnification for remote heart rate estimation"
+      - "Generated 20x magnified videos from UBFC-RPPG and proprietary datasets"
+    tags: ["Python", "Computer Vision", "Signal Processing"]
+
+education:
+  - degree: "B.E. Computer Science"
+    institution: "BITS Pilani"
+    period: "2020 — 2024"
+    gpa: "9.4 / 10"
+    highlights:
+      - "80% Merit Scholarship (top 3% of batch)"
+      - "Teaching Assistant for 5 semesters across 6 courses"
+      - "IEEE ML SIG Head (2022-2023)"
+      - "Coursework: DSA, Database Systems, OOP, OS, Computer Networks, Deep Learning, Compiler Construction"
+
+projects:
+  - name: "AI Agent Factory"
+    description: "Vendor-agnostic LLM orchestration framework using Abstract Factory and Adapter patterns. Supports GPT-4, Claude, and Gemini with dynamic tool discovery via MCP and A2A protocols."
+    tags: ["Python", "LangChain", "MCP", "Design Patterns"]
+    github: ""
+    featured: true
+
+  - name: "Multi-Retriever Closed Domain QA"
+    description: "Closed-domain QA pipeline using HayStack with dual retriever (DPR), FARMReader, and Re-Ranker. Achieved +9.6% F1-Score improvement on CovidQA dataset."
+    tags: ["Python", "NLP", "BERT", "HayStack"]
+    github: ""
+    featured: true
+
+  - name: "Text2Image Generation"
+    description: "GAN-based architecture for generating high-fidelity Indian facial images from textual descriptions. Curated 1500+ annotated images; fine-tuned StyleGAN, TediGAN, CLIP."
+    tags: ["PyTorch", "GANs", "StyleGAN", "CLIP"]
+    github: ""
+    featured: true
+
+  - name: "Conversational AI & UX Study"
+    description: "Field study on AI conversational agents' UX. Multi-class classification of entities in customer complaints using Regression, SVM, and XGBoost on CFPB dataset."
+    tags: ["Python", "SVM", "XGBoost", "UX Research"]
+    github: ""
+    featured: false
+
+  - name: "Azure Cost Analyzer"
+    description: "Dashboard tool with 12 drill-down views for Azure cloud cost analysis and forecasted time-series visualization using Kibana."
+    tags: ["Python", "Azure APIs", "Kibana", "Data Viz"]
+    github: ""
+    featured: false
+
+research:
+  - title: "Micro-Expression Emotion Recognition via Vision Transformers"
+    venue: "Indian Institute of Science (IISc), Bangalore"
+    year: "2022 — 2023"
+    description: "Designed ViT + Masked Auto Encoder architecture trained on custom multi-angle facial dataset. Achieved +11% accuracy improvement on SAMM and CASME2 benchmarks, outperforming CNN baselines (ResNet, VGG-16)."
+    tags: ["Vision Transformers", "MAE", "PyTorch"]
+
+  - title: "Remote Photoplethysmography via Eulerian Video Magnification"
+    venue: "CSIR-CEERI, Chennai"
+    year: "2022"
+    description: "Implemented spatio-temporal decomposition with bandpass filtering for color amplification in YIQ space. Generated 20x magnified videos for remote heart rate estimation."
+    tags: ["Computer Vision", "Signal Processing", "Python"]
+
+  - title: "Multi-Retriever QA Pipeline for COVID-19 Literature"
+    venue: "BITS Pilani"
+    year: "2022 — 2023"
+    description: "Authored closed-domain QA pipeline with dual retrievers and re-ranking. Fine-tuned BERT on CORD dataset achieving 81.6% F1-Score on CovidQA."
+    tags: ["NLP", "BERT", "Information Retrieval"]
+
+achievements:
+  - title: "221 PRs, 1162+ Commits in 2025"
+    year: "2025"
+    description: "Code contributions spanning 9 repositories with +262K LOC, ~95% merge rate, and 65% velocity increase across quarters."
+    icon: "github/github-original.svg"
+    invert_in_dark: true
+
+  - title: "Teaching Assistant - 6 Courses, 5 Semesters"
+    year: "2022 — 2024"
+    description: "TA for Generative AI, NLP, DBMS, OOP, and Business Analytics courses at BITS Pilani."
+    icon: "bitspilani/bitspilani.png"
+
+  - title: "Amazon Machine Learning Summer School"
+    year: "2022"
+    description: "Selected for Amazon's competitive ML Summer School (integrated learning program on key ML topics)"
+    icon: "amazon/amazon.svg"
+
+  - title: "Barabari Project Volunteer"
+    year: "2022 — 2024"
+    description: "One-on-one mentoring for CS engineering students from marginalized backgrounds - core concepts tutoring and placement preparation."
+    icon: "barabari/barabari-logo.png"
+
+  - title: "IEEE ML SIG Head"
+    year: "2022 — 2023"
+    description: "Led core team of 5 students in the ML Special Interest Group at BITS Pilani IEEE Chapter. Organized events for APOGEE technical fest."
+    icon: "ieee/ieee.svg"
+
+  - title: "80% Merit Scholarship: BITS Pilani"
+    year: "2020 — 2024"
+    description: "Awarded merit-cum-need scholarship throughout undergraduate studies, recognizing top 3% academic excellence."
+    icon: "bitspilani/bitspilani.png"
+
+contact:
+  heading: "Get In Touch"
+  description: "I'm always open to discussing new opportunities, interesting projects, or just connecting over shared interests in AI and technology."
+  email: "ghuleanish12@gmail.com"
