@@ -1,9 +1,9 @@
-![Anish Ghule - Founding Software AI Engineer](assets/banner.png)
+![Anish Ghule - AI Engineer (Founding Member of Technical Staff)](assets/banner.png)
 
-### <div align="center">👋 Founding Software AI Engineer at RISA (Palo Alto) — building intelligent healthcare automation systems with Applied GenAI, LLM orchestration, and cloud-native backends.<br />Computer Science Graduate from BITS Pilani 🚀 <br>ex-Research Assistant @ IISc Bangalore</div>
+### <div align="center">👋 AI Engineer (Founding Member of Technical Staff) — building agentic AI, LLM orchestration, cloud-native backends, and production AI systems for business automation.<br />Computer Science Graduate from BITS Pilani 🚀 <br>ex-Research Assistant @ IISc Bangalore</div>
 
-- 🏗️ Currently architecting **Agentic AI frameworks** & **LLM orchestration pipelines** (GPT/ Claude/ Gemini/ Together LLMs with RAG) at RISA
-- 🧬 Building **healthcare automation**: MCP & A2A protocol implementations
+- 🏗️ Currently architecting **agentic AI frameworks** & **LLM orchestration pipelines** (GPT/ Claude/ Gemini/ Together LLMs with RAG) and **MCP** & **A2A** protocols at RISA
+- 🤖 Building **production multi-agent systems**: model routing, evaluation infrastructure, observability, and self-healing automation
 - 📊 **221 PRs, 1162+ commits** across 9 repositories in 2025; I ship
 - 🧑‍🏫 Former Teaching Assistant at BITS Pilani for 6 courses
 - 😌 No caffeine, no lactose, no problem, just good vibes and clean code
@@ -100,7 +100,7 @@
 
 ### Connect with me
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;" align="center">
-  <a href="https://anishghule.github.io/" target="_blank" rel="noopener noreferrer">
+  <a href="https://anishghule.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-E57A44?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/anishghule" target="_blank" rel="noopener noreferrer">
